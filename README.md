@@ -1,0 +1,1 @@
+# Calculate-Manually-CNN-RNN-Architecture
